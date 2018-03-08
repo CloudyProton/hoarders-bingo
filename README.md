@@ -1,0 +1,1 @@
+Bingo game centered around common hoarding traits. Best used in conjunction with hoarding reality shows. tkinter library must be installed on your device for interface functionality. Built against python3.
